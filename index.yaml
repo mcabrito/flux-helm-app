@@ -7,6 +7,6 @@ entries:
     digest: 1e9f4438bca650d9c70e406b7ae1c20f286e9fec85ea8db9dff2f39ce7ccd4b4
     name: block-buster-helm-app
     urls:
-    - https://mcabrito.github.io/helm-chart/block-buster-helm-app-7.6.0.tgz
+    - https://mcabrito.github.io/flux-helm-app/block-buster-helm-app-7.6.0.tgz
     version: 7.6.0
 generated: "2023-04-23T12:08:47.47195-03:00"

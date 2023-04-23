@@ -6,7 +6,7 @@
 1. This repo contains an helm artefact which will be linked to a repo in ArtifactHub. 
 2. This is used for FluxCD Demo.
 3. Chart Name - `block-buster-helm-app`
-4. URL - `https://mcabrito.github.io/block-buster-helm-app`
+4. URL - `https://mcabrito.github.io/flux-helm-app`
 5. Container Image - `siddharth67/block-buster-dev:7.6.0`
 
 ### Sample values.yaml
